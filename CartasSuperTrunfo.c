@@ -6,13 +6,11 @@
      char nome da cidade [50];
      int População;
      float Área;
-     float PIB:
+     float PIB;
      int Numeros_de_Pontos_turisticos;
 
      printf("Desafio Super Trunfo - Países!\n");
-
-     printf("Carta 1:\n");
     
-
-    return 0;
+     printf("Carta 1:\n");
+return 0;
 } 
